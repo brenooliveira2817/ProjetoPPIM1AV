@@ -1,0 +1,16 @@
+{
+  "name": "projetotabuada",
+  "version": "1.0.0",
+  "description": "Criando Tabuada Web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aluno Breno Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
